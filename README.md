@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an Event Booking application for a Poker organisation
+- 🌱 I’m currently teaching Basic Web Development in one on one sessions
+- 💬 Ask me about my private repositories that I've collaborated in 
+
 <!--
 **JoshuaVanDaalen/JoshuaVanDaalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
