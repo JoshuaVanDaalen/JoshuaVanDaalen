@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on an Event Booking application for a Poker organisation
 - 🌱 I’m currently teaching Basic Web Development in one on one sessions
 - 💬 Ask me about my private repositories that I've collaborated in 
+- ⚡ Fun fact: First language was Ruby
 
 <!--
 **JoshuaVanDaalen/JoshuaVanDaalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
