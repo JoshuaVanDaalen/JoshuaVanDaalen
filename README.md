@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Event Booking application for a Poker organisation
+- 🔭 I’m currently working on an making a interactive terminal application to interact with Azure DevOps
 - 🌱 I’m currently teaching Basic Web Development in one on one sessions
 - 💬 Ask me about my private repositories that I've collaborated in 
 - ⚡ Fun fact: First language was Ruby
